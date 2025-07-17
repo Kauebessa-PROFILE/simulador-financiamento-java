@@ -1,3 +1,6 @@
+//Kaue Bessa
+//Projeto de POO na PUC-PR
+
 package main;
 
 //importamos todas as classes e subclasses
